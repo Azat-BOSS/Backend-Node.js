@@ -12,8 +12,8 @@ Libraries in Project:
 - [Bcrypt](https://www.npmjs.com/package/bcrypt)
 - [express-validator](https://express-validator.github.io/docs/)
 
-For Data Base use [MongoDB](https://www.mongodb.com/)
-For building and using APIs [PostMan](https://www.postman.com/)
+- For Data Base use [MongoDB](https://www.mongodb.com/)
+- For building and using APIs [PostMan](https://www.postman.com/)
 
 ### download packages
 ```bash
